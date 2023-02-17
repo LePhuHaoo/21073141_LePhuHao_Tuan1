@@ -1,0 +1,98 @@
+.Bai_3a  {
+    font-size: 20px;
+}
+
+.Bai_4 {
+    background-color: orange;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.Bai_5a{
+    border: 2px solid black;
+    width: 35%;
+    margin: auto;
+    box-shadow: 5px 10px 5px grey;
+}
+.Bai_5a H1{
+    font-size: 25px;
+      
+}
+.href a{
+    color: purple;
+    font-size : 19px;
+}
+.Bai_5b{
+    border: 2px solid black;
+    width: 35%;
+    margin: auto;
+    box-shadow: 5px 10px 5px grey;
+}
+.Bai_5b H1{
+    font-size: 25px;
+}
+ul li a{
+    color: blue;
+}
+a{
+    color: blue;
+}
+
+
+.Bai_6a  td {
+    border: 1px solid black;
+    padding: 15px;
+}
+
+.Bai_6b th,td
+{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.Bai_6b2{
+    border: 2px solid black;
+    width: 12%;
+    height: 150px;
+    margin: 30px;
+    box-shadow: 5px 10px 5px grey;
+}
+.Bai_6b2 table,th,td{
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.Bai_6b3 table,th,td{
+    border: 1px solid black;
+    margin: 5px;
+}
+.Bai_6b3{
+    border: 2px solid black;
+    width: 12%;
+    height: 170px;
+    margin: 30px;
+    box-shadow: 5px 10px 5px grey;
+}
+
+.Bai_7{
+    border: 2px solid black;
+    width: 50%;
+    margin: auto;
+    box-shadow: 5px 10px 5px grey;
+}
+
+.Bai_9 table {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.Bai_9 th {
+    border: 2px solid burlywood;
+    background-color: aqua;
+    padding: 20px;
+}
+
+.Bai_9 td {
+    border: 2px solid orange;
+    background-color: yellow;
+    padding: 10px;
+}
